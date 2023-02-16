@@ -1,8 +1,8 @@
 # Hello-World
 ## Project Title
-1. First item
-2. Second item
-3. Third item
+1. Cat
+2. Cat
+3. Cat
 ## Description
 *Hello World Sample*
 ## Files
